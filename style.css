@@ -1,0 +1,29 @@
+body {
+	margin: auto;
+	padding: auto;
+	background-color: #333;
+	color: #fff;
+}
+#nav {
+	font-size: 16px;
+	height: 100px;
+	width: 100%;
+	margin: auto;
+	background-color: #666;
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: space-around;
+	align-items: center;
+}
+#container {
+	width: 1200px;
+	height: 50rem;
+	background-color: rgb(10, 47, 80);
+	margin: auto;
+}
+#liczba {
+	margin: 10px 10px;
+	width: auto;
+	height: auto;
+	text-align: center;
+}
